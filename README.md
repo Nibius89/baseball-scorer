@@ -1,2 +1,2 @@
-# rebeccas-bot
-telegram bot
+# baseball-scorer
+baseball-scorer
